@@ -12,6 +12,8 @@ In order to get an access token for an user, the service or app needs to have th
 
 The identity provider will only forward any form of user identity if the service has a valid client id and client secret.
 
+## Install
+``` $ npm install passport-oauth2 ```
 
 ### Task 1: Create client_id and client_secret
 First, you'll need to generate client_id and client_secret from it.
