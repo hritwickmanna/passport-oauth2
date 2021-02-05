@@ -14,7 +14,7 @@ The identity provider will only forward any form of user identity if the service
 
 
 ### Task 1: Create client_id and client_secret
-It's important to have finished the previous tutorial and an identity provider up and running. First, you'll need to generate client_id and client_secret from it.
+First, you'll need to generate client_id and client_secret from it.
 
 To get those, you need to login to the identity provider with an admin account. There, access the admin pages and enter Clients page, for the default deployment on localhost this is ```http://localhost:3000/admin/clients```.
 
